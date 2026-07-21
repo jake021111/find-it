@@ -253,4 +253,6 @@ public-toilet-finder/
 
 # 📄 License
 
+yes
+
 MIT License
